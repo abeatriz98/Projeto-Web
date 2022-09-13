@@ -1,0 +1,66 @@
+body{
+    font-family: sans-serif;
+    text-align: justify;
+    color: blue;
+    margin: center;
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+nav{
+
+    text-decoration: none;
+    display: flex;
+
+}
+section{
+    display: inline-block
+    
+}
+
+#primeira{
+    width: 33%;
+    margin-top: 0 auto;
+    position: flex;
+    
+}
+#segunda{
+    width: 33%;
+    margin-top: 0 auto;
+    position: flex;
+    
+}
+#terceira{
+    width: 33%;
+    margin-top: 0 auto;
+    position: flex;
+}
+#img{
+    width: 90%;
+    margin-left: 5%;
+}
+
+h2{
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
+ul{
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    list-style-type: none; 
+    display: flex;
+    padding-right: 300px;
+}
+
+a{
+    text-decoration: none;
+}
+#rodape{
+    text-align: center;
+    font-size: 15px;
+
+}
